@@ -1,0 +1,11 @@
+site_name: Test Documentation
+
+# Theme 
+theme: readthedocs
+
+# Navitation
+nav:
+  - Home: index.md
+  - About: about.md
+
+
